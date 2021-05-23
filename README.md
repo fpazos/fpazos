@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fpazos
+- 👀 I’m interested in mechanical keyboards, web development and generative graphics apps.
+- 🌱 I’m currently learning Angular, SVG, CAD...
+- 💞️ I’m looking to collaborate on something that meets my expectations.
+- 📫 How to reach me, send me a message or visit f-pazos.com
